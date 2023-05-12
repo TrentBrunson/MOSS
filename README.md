@@ -11,14 +11,16 @@ Output:<br>
 * User-defined dashboard to view products aligned with resources and generate COGS or OPEX<br>
 
 Tools used: <br>
-* Python<br>
+* Python 3.10.5<br>
   * Numpy<br>
   * Pandas<br>
   * ImportExportData<br>
   * Matplotlib<br>
   * FiveThirtyEight<br><br>
 
-* Javascript<br>
+* JavaScript<br>
 * Flask<br>
 * HTML<br>
 * CSS<br>
+* Plotly
+* D3
