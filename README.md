@@ -2,13 +2,13 @@
 Mother of All SpreadSheets
 
 
-Inputs:
-  -- HR: Global roster<br>
-  -- Financial: OPEX; salary
-  -- Product: Store view
+Inputs:<br>
+  -- HR: Global roster <br>
+  -- Financial: OPEX; salary <br>
+  -- Product: Store view <br>
 
-Output:
--- User-defined dashboard to view products aligned with resources and generate COGS or OPEX
+Output:<br>
+-- User-defined dashboard to view products aligned with resources and generate COGS or OPEX<br>
 
-Resources used: 
+Resources used: <br>
 -- Python, Jav
