@@ -3,7 +3,7 @@ Mother of All SpreadSheets
 
 
 Inputs:
-  -- HR: Global roster<b>
+  -- HR: Global roster<br>
   -- Financial: OPEX; salary
   -- Product: Store view
 
